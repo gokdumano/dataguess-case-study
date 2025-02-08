@@ -15,7 +15,6 @@ This repository contains the code, data, and documentation for a comprehensive s
 - **`dataguess-case-study-report.pdf`**: Detailed report explaining the methodology, results, and conclusions of the project.
 - **`dataguess-case-study-service.json`**: Placeholder credentials file for Google Sheets API (replace with your own credentials).
 - **`hisse_endeks_ds.xlsx`**: Excel file containing stock and index data sourced from `kap.org.tr` and `borsaistanbul.com`.
-- **`stocks.db`**: SQLite database containing stock price data.
 
 ---
 
