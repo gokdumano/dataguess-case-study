@@ -99,4 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## **Contact**
-For questions or feedback, please contact [Deniz GÖKDUMAN] at [o.deniz.gokduman+github@gmail.com].
+For questions or feedback, please contact [Deniz GÖKDUMAN](mailto:o.deniz.gokduman+github@gmail.com).
